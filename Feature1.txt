@@ -1,2 +1,0 @@
-Hello This Code is from feature 1 branch
-This is second line in code from local
